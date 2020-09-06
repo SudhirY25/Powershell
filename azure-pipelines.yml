@@ -10,5 +10,4 @@ pool:
   vmImage: 'ubuntu-latest'
 
 - task:
-  inputs:
     filePath: 'powershell.ps1'
