@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
-  vmImage: 'MyAgent'
+pool: 'MyAgent'
 
 steps:
 - task: PowerShell@2
